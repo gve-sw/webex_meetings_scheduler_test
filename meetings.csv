@@ -1,0 +1,3 @@
+MeetingName,Host,StartTime,Duration,Attendees,AlternateHost,Agenda
+Meeting 1,host@email.com,04/09/2020 12:00,20,user1@email.com;user2@email.com;user3@email.com,alternate_host@email.com,Testing for meeting 1
+Meeting A,host@email.com,04/09/2020 12:00,12,user1@email.com;user2@email.com;user3@email.com,alternate_host@email.com,Testing for meeting A
